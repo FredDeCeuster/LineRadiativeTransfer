@@ -1,0 +1,152 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      4363,        142]
+NotebookOptionsPosition[      3603,        116]
+NotebookOutlinePosition[      3939,        131]
+CellTagsIndexPosition[      3896,        128]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Distances is a circle, sphere, ...", "Text",
+ CellChangeTimes->{{3.749647532671369*^9, 
+  3.749647561085293*^9}},ExpressionUUID->"52581474-417e-496d-96ac-\
+cdb1ba868c78"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"FullSimplify", "[", 
+  RowBox[{"Solve", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      SuperscriptBox["z", "2"], "-", 
+      SuperscriptBox["R", "2"], "-", 
+      SuperscriptBox["r", "2"], "+", 
+      RowBox[{"2", "r", " ", "z", " ", 
+       RowBox[{"Sin", "[", "\[Theta]", "]"}]}]}], "\[Equal]", "0"}], ",", 
+    "z"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.749648152465843*^9, 3.7496482300150003`*^9}, {
+  3.7496483559438677`*^9, 3.74964835824895*^9}, {3.749648421513383*^9, 
+  3.7496484245223503`*^9}},ExpressionUUID->"6abc5409-d84d-4dfb-8fa7-\
+603849c58951"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"z", "\[Rule]", 
+     RowBox[{
+      RowBox[{"-", 
+       SqrtBox[
+        RowBox[{
+         FractionBox[
+          RowBox[{"3", " ", 
+           SuperscriptBox["r", "2"]}], "2"], "+", 
+         SuperscriptBox["R", "2"], "-", 
+         RowBox[{
+          FractionBox["1", "2"], " ", 
+          SuperscriptBox["r", "2"], " ", 
+          RowBox[{"Cos", "[", 
+           RowBox[{"2", " ", "\[Theta]"}], "]"}]}]}]]}], "-", 
+      RowBox[{"r", " ", 
+       RowBox[{"Sin", "[", "\[Theta]", "]"}]}]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"z", "\[Rule]", 
+     RowBox[{
+      SqrtBox[
+       RowBox[{
+        FractionBox[
+         RowBox[{"3", " ", 
+          SuperscriptBox["r", "2"]}], "2"], "+", 
+        SuperscriptBox["R", "2"], "-", 
+        RowBox[{
+         FractionBox["1", "2"], " ", 
+         SuperscriptBox["r", "2"], " ", 
+         RowBox[{"Cos", "[", 
+          RowBox[{"2", " ", "\[Theta]"}], "]"}]}]}]], "-", 
+      RowBox[{"r", " ", 
+       RowBox[{"Sin", "[", "\[Theta]", "]"}]}]}]}], "}"}]}], "}"}]], "Output",\
+
+ CellChangeTimes->{{3.749648207905232*^9, 3.74964823094347*^9}, 
+   3.7496483588510103`*^9, 
+   3.749648425174733*^9},ExpressionUUID->"392aae1f-401e-4c54-970a-\
+6fd99ae02c65"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"FullSimplify", "[", 
+  RowBox[{
+   RowBox[{"(", 
+    RowBox[{"1", "+", 
+     SuperscriptBox[
+      RowBox[{"Sin", "[", "a", "]"}], "2"]}], ")"}], "-", 
+   RowBox[{
+    RowBox[{"1", "/", "2"}], 
+    RowBox[{"(", 
+     RowBox[{"3", "-", 
+      RowBox[{"Cos", "[", 
+       RowBox[{"2", " ", "a"}], "]"}]}], ")"}]}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.749648396946416*^9, 3.7496483997583227`*^9}, {
+  3.749648487460338*^9, 3.7496484990155773`*^9}, {3.7496486002220573`*^9, 
+  3.7496486476375628`*^9}, {3.749648691099597*^9, 
+  3.749648724351482*^9}},ExpressionUUID->"f14d6edc-f9b1-4267-b38a-\
+ff2fdd33e4cc"],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{
+  3.749648400487492*^9, {3.749648488471608*^9, 3.749648499619905*^9}, {
+   3.749648611496874*^9, 3.749648651594716*^9}, {3.749648707848283*^9, 
+   3.7496487282761307`*^9}},ExpressionUUID->"aee8bec5-fb4e-4d78-bcc5-\
+6574d0793307"]
+}, Open  ]]
+},
+WindowSize->{808, 906},
+WindowMargins->{{501, Automatic}, {Automatic, 37}},
+FrontEndVersion->"11.1 for Linux x86 (64-bit) (March 13, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 176, 3, 33, "Text", "ExpressionUUID" -> \
+"52581474-417e-496d-96ac-cdb1ba868c78"],
+Cell[CellGroupData[{
+Cell[759, 27, 598, 15, 41, "Input", "ExpressionUUID" -> \
+"6abc5409-d84d-4dfb-8fa7-603849c58951"],
+Cell[1360, 44, 1276, 40, 74, "Output", "ExpressionUUID" -> \
+"392aae1f-401e-4c54-970a-6fd99ae02c65"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2673, 89, 633, 17, 41, "Input", "ExpressionUUID" -> \
+"f14d6edc-f9b1-4267-b38a-ff2fdd33e4cc"],
+Cell[3309, 108, 278, 5, 65, "Output", "ExpressionUUID" -> \
+"aee8bec5-fb4e-4d78-bcc5-6574d0793307"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
