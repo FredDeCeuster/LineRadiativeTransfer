@@ -1,0 +1,1678 @@
+Changed directory to /home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28.
+
+JobID: 6569488
+======
+Time: Thu  8 Nov 16:46:33 GMT 2018
+Running on master node: cpu-e-388
+Current directory: /home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28
+
+Nodes allocated:
+================
+cpu-e-388 cpu-e-430 cpu-e-431 cpu-e-436 cpu-e-437 cpu-e-538 cpu-e-539 cpu-e-577 cpu-e-578 cpu-e-601 cpu-e-602 cpu-e-603 cpu-e-631 cpu-e-632 cpu-e-636 cpu-e-637 cpu-e-638 cpu-e-639 cpu-e-707 cpu-e-708 cpu-e-709 cpu-e-724 cpu-e-725 cpu-e-726 cpu-e-732 cpu-e-733 cpu-e-734 cpu-e-735 cpu-e-736 cpu-e-754 cpu-e-755 cpu-e-756 cpu-e-757 cpu-e-766 cpu-e-767 cpu-e-768
+
+numtasks=36, numnodes=36, mpi_tasks_per_node=1 (OMP_NUM_THREADS=1)
+
+Executing command:
+==================
+mpirun -ppn 1 -np 36 /home/dc-dece1/MagritteProjects/Lines_3D_LTE//build/examples/example_Lines_Lime1.exe 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+
+Note: Electron abundance is overwritten to make each cell neutral
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol HD
+ WARNING : species HD  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol C
+ WARNING : species C  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H
+ WARNING : species H  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H2+
+ WARNING : species H2+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3+
+ WARNING : species H3+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol H3O+
+ WARNING : species H3O+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol He+
+ WARNING : species He+  is set to "dummy" reference with abundance 0.0 
+
+
+ WARNING : there is no species with symbol CO
+ WARNING : species CO  is set to "dummy" reference with abundance 0.0 
+
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+(Lines): Starting iteration 1
+In RT...
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/eta_0_0.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/chi_0_0.txt
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/populations_0_0.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/Jeff_0_0.txt
+(Lines): Starting iteration 1
+In RT...
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+(Lines): fraction_not_converged = 0.0277866
+(Lines): Starting iteration 2
+In RT...
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/eta_0_1.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/chi_0_1.txt
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/populations_0_1.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/Jeff_0_1.txt
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 2
+In RT...
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+Inside
+(Lines): fraction_not_converged = 0.0151674
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0190761
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0199513
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.012976
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00589552
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0152545
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0135898
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0149752
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0144512
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0152794
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00597433
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0160551
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0130548
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0153361
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0110831
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0046636
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.00661034
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0144955
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0230387
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.013023
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00302242
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.00644995
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0260335
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00344136
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.00177114
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0131861
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.0113306
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00079501
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0181871
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.00912119
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.00501064
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.00644166
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.0154287
+(Lines): Starting iteration 3
+In RT...
+(Lines): fraction_not_converged = 0.015549
+(Lines): converged after 2 iterations
+(Lines): fraction_not_converged = 0.017193
+(Lines): Starting iteration 3
+In RT...
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/eta_0_2.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/chi_0_2.txt
+Written files:
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/populations_0_2.txt
+/home/dc-dece1/MagritteProjects/Lines_3D_LTE/io/18-11-08_16:45:28/output/Jeff_0_2.txt
+(Lines): fraction_not_converged = 0.0277576
+(Lines): Starting iteration 3
+In RT...
