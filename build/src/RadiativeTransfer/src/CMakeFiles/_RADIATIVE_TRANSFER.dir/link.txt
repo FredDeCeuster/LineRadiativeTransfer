@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_RADIATIVE_TRANSFER.a  CMakeFiles/_RADIATIVE_TRANSFER.dir/species.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/temperature.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/frequencies.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/lines.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/scattering.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/radiation.cpp.o CMakeFiles/_RADIATIVE_TRANSFER.dir/heapsort.cpp.o
+/usr/bin/ranlib lib_RADIATIVE_TRANSFER.a

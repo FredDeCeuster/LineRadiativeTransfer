@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_HEALPix.a  CMakeFiles/_HEALPix.dir/chealpix.c.o
+/usr/bin/ranlib lib_HEALPix.a
