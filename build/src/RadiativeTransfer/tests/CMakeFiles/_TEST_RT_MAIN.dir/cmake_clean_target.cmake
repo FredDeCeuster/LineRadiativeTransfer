@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "lib_TEST_RT_MAIN.a"
-)

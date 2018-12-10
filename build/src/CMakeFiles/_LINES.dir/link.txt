@@ -1,2 +1,0 @@
-/usr/bin/ar qc lib_LINES.a  CMakeFiles/_LINES.dir/linedata.cpp.o CMakeFiles/_LINES.dir/levels.cpp.o CMakeFiles/_LINES.dir/levels_iteration.cpp.o CMakeFiles/_LINES.dir/acceleration_Ng.cpp.o
-/usr/bin/ranlib lib_LINES.a

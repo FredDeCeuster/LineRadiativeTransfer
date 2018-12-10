@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "lib_RADIATIVE_TRANSFER.a"
-)
