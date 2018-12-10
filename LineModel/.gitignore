@@ -1,0 +1,10 @@
+# Binaries
+##########
+
+bin/*
+
+
+*CMakeFiles*
+*Makefile
+*CMakeCache*
+*cmake*
