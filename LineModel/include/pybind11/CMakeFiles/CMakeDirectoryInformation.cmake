@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/frederik/software/pybind11-2.2.4")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/frederik/Dropbox/GitHub/LineRadiativeTransfer/functions/include/pybind11")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/frederik/Dropbox/GitHub/LineRadiativeTransfer/LineModel/include/pybind11")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
